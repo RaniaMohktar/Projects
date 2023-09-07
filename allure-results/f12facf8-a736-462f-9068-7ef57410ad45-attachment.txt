@@ -1,0 +1,83 @@
+[INFO ] 2023-09-07 21:14:51.573 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                        Powered by [1m7.3.20230804[22m                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-07 21:14:54.046 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-09-07 21:14:54.046 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-09-07 21:14:54.115 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-09-07 21:14:54.461 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-09-07 21:14:54.652 [main] Utils - [TestNG] Running:
+  C:\Users\Asus\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+[INFO ] 2023-09-07 21:14:54.684 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-07 21:14:54.783 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-09-07 21:14:54.791 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-09-07 21:14:54.905 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                               Starting execution of set  up configuration method                                               
+                                                            'tests.test.test1.set_up'                                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-07 21:14:54.923 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2023-09-07 21:14:54.935 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\Asus\IdeaProjects\..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 30000}, unhandledPromptBehavior: accept and notify}
+[INFO ] 2023-09-07 21:14:54.936 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2023-09-07 21:14:54.937 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[DEBUG] 2023-09-07 21:14:55.250 [main] ResolutionCache - Resolution chrome=116 in cache (valid until 21:33:13 07/09/2023 EEST)
+[DEBUG] 2023-09-07 21:14:55.250 [main] ResolutionCache - Resolution chrome116=116.0.5845.96 in cache (valid until 21:28:53 07/09/2023 EEST)
+[INFO ] 2023-09-07 21:14:55.252 [main] WebDriverManager - Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+[DEBUG] 2023-09-07 21:14:55.261 [main] WebDriverManager - Driver chromedriver 116.0.5845.96 found in cache
+[INFO ] 2023-09-07 21:14:55.262 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Asus\.cache\selenium\chromedriver\win64\116.0.5845.96\chromedriver.exe
+[WARN ] 2023-09-07 21:14:56.622 [main] ReportManager - Sep 07, 2023 9:14:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2023-09-07 21:14:56.622 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+[INFO ] 2023-09-07 21:14:56.630 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2023-09-07 21:14:56.637 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2023-09-07 21:14:56.669 [main] ReportManager - Initial URL: "data:,"
+[INFO ] 2023-09-07 21:14:58.648 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2023-09-07 21:14:58.720 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                      Test Method: 'tests.test.test1.Order'                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-07 21:14:58.858 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2023-09-07 21:14:58.949 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2023-09-07 21:14:59.137 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-09-07 21:14:59.193 [main] ReportManager - Click "Login".
+[INFO ] 2023-09-07 21:14:59.464 [main] ReportManager - Select "Price (low to high)" from "By.xpath: //*[@class='product_sort_container']".
+[INFO ] 2023-09-07 21:14:59.622 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-09-07 21:14:59.648 [main] ReportManager - Click "Add to cart".
+[INFO ] 2023-09-07 21:14:59.823 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-09-07 21:14:59.852 [main] ReportManager - Click "1".
+[INFO ] 2023-09-07 21:15:00.025 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-09-07 21:15:00.053 [main] ReportManager - Click "Checkout".
+[INFO ] 2023-09-07 21:15:00.137 [main] ReportManager - Type "Rania" into "First Name".
+[INFO ] 2023-09-07 21:15:00.228 [main] ReportManager - Type "Mokhtar" into "Last Name".
+[INFO ] 2023-09-07 21:15:00.315 [main] ReportManager - Type "123" into "Zip/Postal Code".
+[INFO ] 2023-09-07 21:15:00.463 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-09-07 21:15:00.494 [main] ReportManager - Click "Continue".
+[INFO ] 2023-09-07 21:15:00.665 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-09-07 21:15:00.694 [main] ReportManager - Click "Finish".
+[INFO ] 2023-09-07 21:15:00.738 [main] ReportManager - Get text "Thank you for your order!" from "Thank you for your order!".
+[INFO ] 2023-09-07 21:15:00.750 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: set_up'
+[INFO ] 2023-09-07 21:15:00.751 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: Order'
+[INFO ] 2023-09-07 21:15:00.764 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                              Starting execution of tear down configuration method                                              
+                                                           'tests.test.test1.tearDown'                                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-07 21:15:00.859 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-07 21:15:00.860 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-09-07 21:15:00.861 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-09-07 21:15:00.861 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

@@ -1,0 +1,26 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                      Test Method: 'tests.test.test1.Order'                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "standard_user" into "Username". @07-09-2023 21:14:58.0854 PM
+[ReportManager] Type "secret_sauce" into "Password". @07-09-2023 21:14:58.0949 PM
+[ReportManager] Moved the mouse to the middle of the element. @07-09-2023 21:14:59.0137 PM
+[ReportManager] Click "Login". @07-09-2023 21:14:59.0192 PM
+[ReportManager] Select "Price (low to high)" from "By.xpath: //*[@class='product_sort_container']". @07-09-2023 21:14:59.0464 PM
+[ReportManager] Moved the mouse to the middle of the element. @07-09-2023 21:14:59.0622 PM
+[ReportManager] Click "Add to cart". @07-09-2023 21:14:59.0648 PM
+[ReportManager] Moved the mouse to the middle of the element. @07-09-2023 21:14:59.0823 PM
+[ReportManager] Click "1". @07-09-2023 21:14:59.0852 PM
+[ReportManager] Moved the mouse to the middle of the element. @07-09-2023 21:15:00.0025 PM
+[ReportManager] Click "Checkout". @07-09-2023 21:15:00.0053 PM
+[ReportManager] Type "Rania" into "First Name". @07-09-2023 21:15:00.0136 PM
+[ReportManager] Type "Mokhtar" into "Last Name". @07-09-2023 21:15:00.0228 PM
+[ReportManager] Type "123" into "Zip/Postal Code". @07-09-2023 21:15:00.0314 PM
+[ReportManager] Moved the mouse to the middle of the element. @07-09-2023 21:15:00.0462 PM
+[ReportManager] Click "Continue". @07-09-2023 21:15:00.0494 PM
+[ReportManager] Moved the mouse to the middle of the element. @07-09-2023 21:15:00.0665 PM
+[ReportManager] Click "Finish". @07-09-2023 21:15:00.0693 PM
+[ReportManager] Get text "Thank you for your order!" from "Thank you for your order!". @07-09-2023 21:15:00.0738 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: set_up' @07-09-2023 21:15:00.0750 PM
